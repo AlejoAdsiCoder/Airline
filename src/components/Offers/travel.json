@@ -1,0 +1,20 @@
+{
+    "travel": [
+        {
+            "title": "Trip to Moscow",
+            "price": "$600,86",
+            "background": "../../assets/moscow.jpg"
+        }, 
+        {
+            "title": "Trip to Puerto Rico",
+            "price": "$600,86",
+            "background": "../../assets/puerto-rico.jpg"
+        },
+        {
+            "title": "Trip to Honduras",
+            "price": "$600,86",
+            "background": "../../assets/honduras.jpg"
+        }
+
+    ]
+}
