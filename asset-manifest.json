@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/AirlinePage/static/css/main.02e9426a.css",
+    "main.js": "/AirlinePage/static/js/main.9c56ec58.js",
+    "static/js/787.0d5599df.chunk.js": "/AirlinePage/static/js/787.0d5599df.chunk.js",
+    "static/media/Roboto-Regular.ttf": "/AirlinePage/static/media/Roboto-Regular.fa7e6e7d259aa22ddca2.ttf",
+    "static/media/Roboto-Bold.ttf": "/AirlinePage/static/media/Roboto-Bold.fef2e08e00059465ae6a.ttf",
+    "static/media/plane.jpg": "/AirlinePage/static/media/plane.8139472266a43c417894.jpg",
+    "static/media/Roboto-Light.ttf": "/AirlinePage/static/media/Roboto-Light.333da16a3f3cc391d087.ttf",
+    "static/media/honduras.jpg": "/AirlinePage/static/media/honduras.3c073a98d8feaf18876a.jpg",
+    "static/media/puerto-rico.jpg": "/AirlinePage/static/media/puerto-rico.e80bfc75dca11992a29e.jpg",
+    "static/media/Roboto-Bold.woff": "/AirlinePage/static/media/Roboto-Bold.9fa4a8113c081e9b3138.woff",
+    "static/media/Roboto-Regular.woff": "/AirlinePage/static/media/Roboto-Regular.0944be1093c62cedb919.woff",
+    "static/media/moscow.jpg": "/AirlinePage/static/media/moscow.2f4bbafddd63f8902172.jpg",
+    "static/media/Roboto-Bold.woff2": "/AirlinePage/static/media/Roboto-Bold.b21da07c934a28b2fef3.woff2",
+    "static/media/Roboto-Regular.woff2": "/AirlinePage/static/media/Roboto-Regular.9d43b86421e004e704b9.woff2",
+    "static/media/instagram.svg": "/AirlinePage/static/media/instagram.44073b033a19e9a7edc3.svg",
+    "static/media/facebook.svg": "/AirlinePage/static/media/facebook.079ccd4b2b8f1f5453b5.svg",
+    "static/media/logo.svg": "/AirlinePage/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/twitter.svg": "/AirlinePage/static/media/twitter.347fea81512907dde204.svg",
+    "index.html": "/AirlinePage/index.html",
+    "main.02e9426a.css.map": "/AirlinePage/static/css/main.02e9426a.css.map",
+    "main.9c56ec58.js.map": "/AirlinePage/static/js/main.9c56ec58.js.map",
+    "787.0d5599df.chunk.js.map": "/AirlinePage/static/js/787.0d5599df.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02e9426a.css",
+    "static/js/main.9c56ec58.js"
+  ]
+}
