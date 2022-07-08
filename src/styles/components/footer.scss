@@ -2,6 +2,10 @@
     background: #0A2463;
     height: 406px;
 
+    @media (max-width: 768px) {
+        height: unset;
+    }
+
     &__social {
         display: flex;
         justify-content: center;
@@ -49,6 +53,12 @@
         flex-direction: row;
         justify-content: space-evenly;
         margin-top: 36px;
+
+        @media (max-width: 768px) {
+            flex-direction: column;
+            margin: 0 20px;
+            justify-content: unset;
+        }
     }
 
     &__about {

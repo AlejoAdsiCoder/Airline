@@ -26,6 +26,10 @@
         display: flex;
         column-gap: 15px;
         font-family: 'RobotoRegular';
+
+        @media (max-width: 768px) {
+            display: none;
+        }
     }
 
     &__link {
