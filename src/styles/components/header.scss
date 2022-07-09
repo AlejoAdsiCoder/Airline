@@ -21,16 +21,16 @@
         gap: 12px;
     }
 
-    &__navbar {
-        justify-content: space-between;
-        display: flex;
-        column-gap: 15px;
-        font-family: 'RobotoRegular';
+    // &__navbar {
+    //     justify-content: space-between;
+    //     display: flex;
+    //     column-gap: 15px;
+    //     font-family: 'RobotoRegular';
 
-        @media (max-width: 768px) {
-            display: none;
-        }
-    }
+    //     @media (max-width: 768px) {
+    //         display: none;
+    //     }
+    // }
 
     &__link {
         color: white;
@@ -127,6 +127,9 @@
         
     }
 
-    
+    // margin mobile //
+    @media (max-width: 548px) {
+        margin: 0 18px;
+    }
     
 }
